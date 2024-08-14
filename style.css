@@ -9,7 +9,7 @@
     font-weight: bold;
     color: orange;
 }
-.hero{
+/* .hero{
     width: 100%;
     height: 600px;
     background-color: orange;
@@ -18,7 +18,7 @@
     margin: 100px;
     height: 500px;
     width: 500px;
-}
+} */
 h1{font-size: 50px;
 font-weight: bolder;
 text-align: center;
@@ -29,4 +29,7 @@ h2{
     color: darkslategrey;
     margin-left: 50px;
     text-align: center;
+}
+.hero-2{
+    margin-left: 100px;
 }
