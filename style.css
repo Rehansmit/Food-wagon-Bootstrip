@@ -33,3 +33,7 @@ h2{
 .hero-2{
     margin-left: 100px;
 }
+
+.badge {
+    line-height: 0.8125rem;
+  }
