@@ -73,3 +73,27 @@ h2{
     height: 80px;
 
 }
+.sf{align-items:start;}
+.sfr{align-items: end;}
+
+
+
+
+.sf-p1{
+/* border: 2px solid black; */
+    /* border-radius: 50% !important; */
+    height: 200px;
+    width: 200px;
+    padding: 5px;margin: 2px;
+}
+/* .sf-p{
+    border-radius: 50%;
+    height: 150px;
+    width: 150 px;
+} */
+
+.sf-pp{
+    justify-content:space-around !important;
+    flex-direction:row;
+    text-align: center;
+}
